@@ -50,7 +50,9 @@ appealing dashboard, add interactive visualizations and filtering capabilities t
 - Insights from Dashboard.
 
 
-
-![Screenshot (29)](https://github.com/GourPrahasnt/PowerBI-Sales_Dashboard/assets/109894515/a6809dea-7b4f-4d3d-8e41-efca955287aa)
+![Screenshot (32)](https://github.com/GourPrahasnt/PowerBI-Sales_Dashboard/assets/109894515/50c4bc5a-a2ab-4add-8c42-0d63bc328214)
 
 ![Screenshot (24)](https://github.com/GourPrahasnt/PowerBI-Sales_Dashboard/assets/109894515/53d1f314-31a1-46bb-87d0-7d0daa2b4ed0)
+
+
+
